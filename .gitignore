@@ -1,0 +1,13 @@
+# Package files
+.venv
+venv
+virtualenv
+
+# Cache files
+__pycache__
+
+# environment variables
+.env.local
+*.env
+
+*.DS_Store
